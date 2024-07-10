@@ -37,10 +37,10 @@
 
             display-name = "Lower";
             bindings = <
-&kp TAB        &kp CARET         &kp AMPERSAND         &kp EXCLAMATION        &kp SEMICOLON      &kp COLON        &kp ESCAPE        &kp LEFT_ARROW     &kp DOWN         &kp UP_ARROW  &kp RIGHT        &kp PAGE_UP
-&kp BACKSPACE  &kp LEFT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp RIGHT_BRACKET  &kp LESS_THAN    &kp GREATER_THAN  &kp EQUAL          &kp PLUS         &kp MINUS     &kp KP_ASTERISK  &kp PAGE_DOWN
-&kp LSHFT      &kp BACKSLASH     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE           &kp TILDE        &kp EXCLAMATION   &kp AMPERSAND      &kp HASH         &kp DOLLAR    &kp PERCENT      &kp SYSREQ
-                                                       &kp LEFT_CONTROL       &kp LEFT_ALT       &trans           &kp SPACE         &kp C_VOLUME_DOWN  &kp C_VOLUME_UP
+&kp TAB     &kp CARET         &kp AMPERSAND         &kp EXCLAMATION        &kp SEMICOLON      &kp COLON        &kp ESCAPE        &kp LEFT_ARROW     &kp DOWN         &kp UP_ARROW  &kp RIGHT        &kp PAGE_UP
+&kp DELETE  &kp LEFT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp RIGHT_BRACKET  &kp LESS_THAN    &kp GREATER_THAN  &kp EQUAL          &kp PLUS         &kp MINUS     &kp KP_ASTERISK  &kp PAGE_DOWN
+&kp LSHFT   &kp BACKSLASH     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE           &kp TILDE        &kp EXCLAMATION   &kp AMPERSAND      &kp HASH         &kp DOLLAR    &kp PERCENT      &kp SYSREQ
+                                                    &kp LEFT_CONTROL       &kp LEFT_ALT       &trans           &kp SPACE         &kp C_VOLUME_DOWN  &kp C_VOLUME_UP
             >;
         };
 
